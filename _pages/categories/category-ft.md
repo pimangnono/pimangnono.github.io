@@ -1,7 +1,7 @@
 ---
 title: "flutter"
-layout: archive
-permalink: /:categories/:ft
+layout: categories
+permalink: /categories/ft
 author_profile: true
 sidebar_main: true
 ---
