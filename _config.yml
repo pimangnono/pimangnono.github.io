@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Developing Developer"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Slowly but Surely"
 name                     : "Jay Park"
 description              : "An adventure of Jay Park to the World of Coding."
 url                      : "https://pimangnono.github.io"
