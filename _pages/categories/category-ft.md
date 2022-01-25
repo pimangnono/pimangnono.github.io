@@ -1,6 +1,6 @@
 ---
 title: "flutter"
-layout: categories
+layout: archive
 permalink: /categories/ft
 author_profile: true
 sidebar_main: true
