@@ -126,8 +126,8 @@ blockquote {
 /* links */
 
 a {
-  text-decoration: none;
-  
+   /*a link 하이퍼링크 밑줄 없애기 */
+   text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }
@@ -140,7 +140,7 @@ a {
     color: $link-color-hover;
     outline: 0;
   }
-  }
+}
 
 /* buttons */
 
