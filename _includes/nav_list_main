@@ -58,7 +58,7 @@
                 {% endfor %}
             </ul>
         
-        <span class="nav__sub-title">Front End</span>
+        <span class="nav__sub-title">HTML & CSS</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ht" %}
