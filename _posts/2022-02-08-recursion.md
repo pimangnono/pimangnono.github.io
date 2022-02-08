@@ -6,7 +6,7 @@ tag: algorithm
 toc: true
 ---
 
-<br>
+
 
 # 순환이란?
 
@@ -51,6 +51,8 @@ recursive case: recursion을 반복하다보면 결국 base case로 수렴한다
 - 하지만 함수 호출에 따른 오버해드가 있음 (매개변수 전달, 액티베이션 프레임 생성 등)
 
 <br>
+
+
 
 # 순환적 알고리즘 설계
 
