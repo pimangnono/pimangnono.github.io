@@ -12,7 +12,6 @@ toc: true
 
 자기 자신을 호출하는 함수
 
-<br>
 
 ```java
 int func(int n) {
@@ -32,7 +31,7 @@ recursive case: recursion을 반복하다보면 결국 base case로 수렴한다
 
 <br>
 
-### 순환을 사용하는 예
+## 순환을 사용하는 예
 
 - Factorial: n!
 
@@ -44,7 +43,7 @@ recursive case: recursion을 반복하다보면 결국 base case로 수렴한다
 
 <br>
 
-### Recursion vs Iteration
+## Recursion vs Iteration
 
 - 모든 순환함수는 반복문(iteration)으로 변경 가능
 - 그 역도 성립함. 즉 모든 반복문은 recursion으로 표현 가능
@@ -56,8 +55,6 @@ recursive case: recursion을 반복하다보면 결국 base case로 수렴한다
 # 순환적 알고리즘 설계
 
 <strong>암시적(implicit)</strong> 매개변수를  <strong>명시적(explicit)</strong> 매개변수로 바꾸어라.
-
-<br>
 
 ```java
 int *binarySearch(int data[], int target, int begin, int end) {
