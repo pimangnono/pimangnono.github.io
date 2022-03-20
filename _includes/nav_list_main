@@ -76,6 +76,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "mach_p" %}
@@ -83,5 +84,5 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        </li>
+      </li>
 </nav>
